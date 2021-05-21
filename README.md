@@ -12,6 +12,9 @@ git log -p
 -touch .gitignore
 -ls la   show all files and hidden
 
+![image](https://user-images.githubusercontent.com/44142415/119176582-854e1800-ba80-11eb-92b6-8307066c0cf6.png)
+
+
 
 
 
